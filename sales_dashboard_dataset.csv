@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Region,Category,Product,Quantity,Sales,Profit
+1001,2024-03-12,North,Office Supplies,Paper,1,895.03,99.55
+1002,2024-02-17,South,Office Supplies,Envelope,1,716.78,41.53
+1003,2024-11-28,West,Technology,Keyboard,5,256.55,25.58
+1004,2024-03-22,West,Technology,Monitor,5,1741.35,465.51
+1005,2024-02-22,North,Furniture,Bookcase,2,548.14,132.03
+1006,2024-01-23,West,Furniture,Chair,3,3060.12,614.87
+1007,2024-11-17,East,Office Supplies,Paper,4,451.92,55.72
+1008,2024-05-28,North,Office Supplies,Pen,1,74.07,7.92
+1009,2024-07-05,South,Technology,Laptop,4,1392.04,290.83
+1010,2024-12-15,North,Furniture,Bookcase,2,1621.62,365.6
+1011,2024-07-13,East,Office Supplies,Pen,5,4401.85,399.91
+1012,2024-01-29,South,Office Supplies,Envelope,2,1655.68,431.66
+1013,2024-10-17,East,Technology,Tablet,4,1343.72,138.06
+1014,2024-03-14,East,Technology,Monitor,4,4255.72,896.74
+1015,2024-08-07,West,Technology,Phone,5,3279.95,776.54
+1016,2024-01-25,North,Furniture,Desk,2,1242.48,90.36
+1017,2024-11-01,West,Technology,Phone,4,2895.04,423.23
+1018,2024-02-28,East,Office Supplies,Stapler,5,5178.6,273.79
+1019,2024-01-02,East,Office Supplies,Stapler,1,366.33,32.8
+1020,2024-06-01,South,Office Supplies,Pen,5,5484.5,1467.81
+1021,2024-09-28,North,Technology,Tablet,2,1312.94,321.22
+1022,2024-06-06,South,Office Supplies,Stapler,4,171.92,48.53
+1023,2024-09-05,North,Technology,Phone,5,5687.0,406.13
+1024,2024-03-25,East,Office Supplies,Pen,2,1597.02,457.89
+1025,2024-12-19,South,Office Supplies,Envelope,4,4631.8,1307.23
+1026,2024-08-12,West,Office Supplies,Stapler,4,4777.12,1014.99
+1027,2024-10-10,South,Technology,Phone,2,191.1,10.56
+1028,2024-04-27,North,Office Supplies,Pen,1,103.77,21.56
+1029,2024-09-05,South,Technology,Tablet,1,626.7,74.97
+1030,2024-08-30,West,Office Supplies,Pen,5,3499.65,387.58
+1031,2024-07-29,West,Technology,Laptop,1,797.6,110.53
+1032,2024-02-25,South,Office Supplies,Paper,1,91.52,21.24
+1033,2024-05-22,West,Technology,Phone,5,2746.8,427.05
+1034,2024-02-20,North,Technology,Laptop,4,3893.88,1027.95
+1035,2024-05-01,South,Office Supplies,Envelope,1,1163.42,327.61
+1036,2024-01-31,South,Furniture,Table,4,1088.88,163.62
+1037,2024-08-20,East,Furniture,Chair,4,1331.76,327.64
+1038,2024-01-30,North,Furniture,Cabinet,4,810.64,100.66
+1039,2024-09-28,South,Office Supplies,Stapler,1,79.17,13.4
+1040,2024-02-04,South,Technology,Keyboard,1,1024.58,68.78
+1041,2024-11-13,North,Furniture,Chair,5,1552.65,308.4
+1042,2024-04-14,East,Furniture,Cabinet,5,3184.4,903.34
+1043,2024-08-22,East,Technology,Tablet,4,697.76,147.49
+1044,2024-02-21,North,Technology,Laptop,4,3011.88,574.51
+1045,2024-02-05,South,Office Supplies,Pen,5,1664.7,471.63
+1046,2024-06-03,North,Furniture,Bookcase,2,1074.12,199.58
+1047,2024-03-09,East,Office Supplies,Envelope,3,3358.41,254.89
+1048,2024-04-17,East,Technology,Laptop,5,1017.15,122.5
+1049,2024-01-27,North,Technology,Tablet,5,2982.35,824.13
+1050,2024-03-07,East,Office Supplies,Binder,3,216.06,28.82
+1051,2024-02-27,North,Technology,Monitor,5,4263.45,811.02
+1052,2024-10-09,South,Office Supplies,Pen,5,312.55,44.48
+1053,2024-01-21,East,Furniture,Desk,1,383.74,105.43
+1054,2024-07-27,South,Technology,Phone,1,437.34,83.08
+1055,2024-06-19,West,Technology,Phone,2,2120.14,119.14
+1056,2024-07-14,North,Office Supplies,Pen,3,623.55,140.5
+1057,2024-06-05,South,Furniture,Desk,2,1967.14,324.73
+1058,2024-02-05,East,Technology,Laptop,2,980.38,117.3
+1059,2024-06-18,North,Furniture,Cabinet,4,3287.32,857.71
+1060,2024-01-20,North,Technology,Tablet,2,1410.2,417.26
+1061,2024-11-06,North,Office Supplies,Binder,3,2639.04,338.9
+1062,2024-01-01,South,Furniture,Cabinet,2,641.14,145.66
+1063,2024-11-15,East,Furniture,Table,1,1139.67,319.33
+1064,2024-06-16,West,Office Supplies,Paper,3,1855.2,402.06
+1065,2024-07-13,South,Office Supplies,Stapler,5,851.0,132.0
+1066,2024-06-04,East,Office Supplies,Envelope,3,1497.51,387.0
+1067,2024-08-14,West,Technology,Monitor,5,3679.3,480.38
+1068,2024-03-27,North,Office Supplies,Pen,5,2891.8,796.1
+1069,2024-04-30,East,Furniture,Cabinet,5,2077.6,528.97
+1070,2024-08-31,North,Technology,Phone,2,97.64,10.86
+1071,2024-09-10,West,Furniture,Table,5,1247.15,279.47
+1072,2024-02-24,West,Technology,Phone,1,1073.34,284.55
+1073,2024-03-03,West,Technology,Phone,5,2840.85,537.92
+1074,2024-08-14,West,Technology,Monitor,5,5928.55,1178.97
+1075,2024-05-12,South,Office Supplies,Binder,2,1795.02,302.76
+1076,2024-08-13,North,Office Supplies,Stapler,5,2959.1,324.94
+1077,2024-10-03,North,Office Supplies,Stapler,2,681.24,88.51
+1078,2024-04-19,North,Technology,Phone,2,943.96,83.26
+1079,2024-04-15,West,Furniture,Table,3,1980.84,304.94
+1080,2024-07-13,West,Furniture,Cabinet,1,1030.94,248.87
+1081,2024-08-02,South,Technology,Tablet,3,2727.3,718.27
+1082,2024-06-21,West,Furniture,Desk,3,1602.87,91.77
+1083,2024-09-30,North,Office Supplies,Pen,4,4420.24,1304.77
+1084,2024-08-07,South,Furniture,Cabinet,5,4011.7,284.78
+1085,2024-08-20,East,Furniture,Desk,1,326.98,43.11
+1086,2024-05-09,North,Furniture,Table,3,2722.11,702.25
+1087,2024-04-24,North,Furniture,Chair,5,407.3,117.29
+1088,2024-01-11,South,Office Supplies,Paper,1,1140.54,113.87
+1089,2024-04-21,West,Technology,Phone,4,3239.84,618.78
+1090,2024-02-28,South,Office Supplies,Stapler,3,653.97,131.98
+1091,2024-12-12,West,Furniture,Chair,5,251.5,32.19
+1092,2024-05-04,North,Furniture,Desk,1,718.68,185.16
+1093,2024-10-16,North,Office Supplies,Stapler,5,4852.6,1208.57
+1094,2024-11-27,East,Furniture,Cabinet,4,3202.4,215.33
+1095,2024-11-21,West,Technology,Monitor,4,578.16,167.78
+1096,2024-11-29,East,Office Supplies,Pen,4,911.36,164.44
+1097,2024-10-30,East,Office Supplies,Envelope,4,2274.2,583.18
+1098,2024-08-25,West,Furniture,Desk,1,349.14,56.81
+1099,2024-04-18,East,Furniture,Chair,4,4096.48,391.05
+1100,2024-05-21,North,Furniture,Bookcase,3,3176.34,715.62
+1101,2024-10-11,South,Office Supplies,Pen,1,304.8,46.21
+1102,2024-05-30,South,Office Supplies,Binder,4,2195.4,119.23
+1103,2024-10-10,East,Furniture,Desk,3,2410.41,342.89
+1104,2024-06-05,East,Furniture,Cabinet,3,1305.42,213.35
+1105,2024-12-19,South,Technology,Laptop,2,784.7,184.97
+1106,2024-09-25,East,Technology,Phone,4,1385.08,273.41
+1107,2024-01-08,South,Technology,Phone,3,865.29,82.08
+1108,2024-03-05,West,Furniture,Chair,1,672.96,150.98
+1109,2024-06-23,South,Technology,Laptop,5,1777.6,301.62
+1110,2024-09-08,North,Technology,Tablet,4,618.48,41.03
+1111,2024-06-04,North,Office Supplies,Paper,2,392.1,74.78
+1112,2024-11-12,South,Technology,Laptop,5,4610.2,929.32
+1113,2024-10-28,West,Office Supplies,Binder,4,4368.16,543.13
+1114,2024-02-20,South,Furniture,Cabinet,5,455.35,132.06
+1115,2024-03-29,North,Office Supplies,Pen,3,2397.93,214.05
+1116,2024-05-29,North,Technology,Laptop,4,2206.36,437.86
+1117,2024-12-17,South,Technology,Tablet,3,2548.59,416.71
+1118,2024-11-27,South,Furniture,Cabinet,2,1043.32,194.2
+1119,2024-10-31,East,Furniture,Desk,1,90.37,22.43
+1120,2024-05-19,West,Furniture,Chair,4,3330.56,749.15
+1121,2024-06-14,East,Furniture,Chair,5,335.2,52.96
+1122,2024-10-21,North,Technology,Laptop,2,2310.12,598.3
+1123,2024-08-28,West,Office Supplies,Stapler,5,337.35,80.65
+1124,2024-02-16,West,Furniture,Desk,5,2671.7,677.44
+1125,2024-03-23,East,Furniture,Table,3,1196.55,91.12
+1126,2024-10-08,North,Furniture,Table,3,2405.55,361.1
+1127,2024-07-25,North,Furniture,Chair,3,953.49,75.31
+1128,2024-07-04,West,Office Supplies,Envelope,4,2030.52,196.75
+1129,2024-05-27,West,Office Supplies,Binder,1,260.2,48.74
+1130,2024-05-02,South,Office Supplies,Binder,1,54.07,11.22
+1131,2024-02-28,West,Furniture,Cabinet,1,671.66,49.23
+1132,2024-12-27,East,Technology,Phone,4,4482.12,551.15
+1133,2024-07-15,South,Furniture,Table,4,1230.4,231.09
+1134,2024-07-31,East,Office Supplies,Envelope,2,2079.1,247.54
+1135,2024-10-27,West,Office Supplies,Stapler,1,353.75,44.09
+1136,2024-10-05,West,Technology,Monitor,5,2957.6,393.69
+1137,2024-07-15,South,Furniture,Bookcase,2,2354.62,258.31
+1138,2024-07-14,West,Furniture,Chair,3,2696.25,610.18
+1139,2024-10-29,East,Office Supplies,Pen,4,4633.96,377.95
+1140,2024-03-14,West,Technology,Monitor,1,640.62,105.21
+1141,2024-06-22,West,Office Supplies,Pen,1,574.0,167.78
+1142,2024-07-13,East,Office Supplies,Paper,3,3077.28,814.97
+1143,2024-11-19,East,Office Supplies,Binder,5,311.8,20.92
+1144,2024-12-26,North,Technology,Laptop,4,4697.76,1127.9
+1145,2024-01-29,East,Furniture,Desk,3,3258.12,200.37
+1146,2024-10-16,South,Furniture,Bookcase,4,767.08,140.22
+1147,2024-12-15,South,Technology,Phone,1,739.2,107.65
+1148,2024-08-23,East,Furniture,Cabinet,2,587.96,123.16
+1149,2024-03-21,North,Office Supplies,Paper,4,4333.72,950.83
+1150,2024-12-19,East,Furniture,Bookcase,5,1865.0,541.8
+1151,2024-02-24,South,Furniture,Bookcase,2,2398.52,631.61
+1152,2024-05-31,North,Furniture,Cabinet,3,2094.84,624.62
+1153,2024-01-26,West,Office Supplies,Binder,3,88.68,23.61
+1154,2024-04-07,East,Furniture,Desk,5,4831.4,506.09
+1155,2024-06-07,West,Office Supplies,Pen,1,1086.02,229.79
+1156,2024-05-31,East,Technology,Keyboard,3,2652.54,192.4
+1157,2024-07-06,East,Office Supplies,Binder,2,513.88,126.74
+1158,2024-06-22,North,Technology,Tablet,4,4646.04,575.11
+1159,2024-12-12,West,Furniture,Chair,2,1819.8,193.63
+1160,2024-10-01,North,Office Supplies,Stapler,1,953.0,50.97
+1161,2024-07-09,North,Furniture,Bookcase,3,2129.34,544.27
+1162,2024-10-14,East,Office Supplies,Pen,4,198.12,53.7
+1163,2024-12-24,East,Office Supplies,Pen,1,769.78,127.83
+1164,2024-06-04,West,Office Supplies,Binder,1,184.94,53.0
+1165,2024-08-20,East,Technology,Laptop,2,2133.94,179.07
+1166,2024-07-31,North,Office Supplies,Envelope,4,2852.24,660.72
+1167,2024-12-19,East,Furniture,Cabinet,4,4512.32,541.19
+1168,2024-02-20,East,Technology,Monitor,4,4566.64,1204.97
+1169,2024-03-03,West,Office Supplies,Stapler,1,489.8,47.73
+1170,2024-06-19,South,Technology,Phone,5,5829.45,365.18
+1171,2024-04-16,South,Technology,Keyboard,2,201.92,48.72
+1172,2024-05-21,South,Technology,Tablet,2,1901.2,378.33
+1173,2024-01-14,South,Technology,Keyboard,3,2886.75,223.67
+1174,2024-05-15,North,Technology,Tablet,2,1429.7,77.13
+1175,2024-08-17,East,Technology,Monitor,5,770.55,50.77
+1176,2024-11-10,North,Office Supplies,Envelope,1,553.37,58.32
+1177,2024-02-01,West,Office Supplies,Envelope,3,1681.47,489.32
+1178,2024-02-07,North,Furniture,Table,1,598.52,166.04
+1179,2024-11-20,East,Furniture,Cabinet,2,195.02,23.16
+1180,2024-08-08,North,Furniture,Cabinet,5,1839.9,324.54
+1181,2024-08-19,South,Office Supplies,Paper,5,4352.95,451.64
+1182,2024-06-09,West,Furniture,Bookcase,4,1962.0,455.97
+1183,2024-08-30,North,Furniture,Bookcase,3,3435.72,761.72
+1184,2024-07-09,South,Technology,Laptop,1,529.61,125.07
+1185,2024-12-09,North,Office Supplies,Paper,5,5744.1,1093.8
+1186,2024-05-27,East,Furniture,Bookcase,4,4177.4,961.91
+1187,2024-09-03,South,Furniture,Chair,5,3093.75,274.36
+1188,2024-10-20,South,Technology,Tablet,5,2268.6,545.94
+1189,2024-01-14,East,Furniture,Cabinet,5,3720.1,783.73
+1190,2024-06-22,East,Technology,Phone,3,2547.54,324.16
+1191,2024-03-13,North,Technology,Phone,2,1376.52,206.75
+1192,2024-03-21,East,Technology,Keyboard,2,927.82,151.62
+1193,2024-03-20,South,Furniture,Bookcase,5,3617.7,979.8
+1194,2024-09-05,West,Office Supplies,Paper,1,341.08,73.5
+1195,2024-08-08,North,Furniture,Bookcase,2,1821.66,142.92
+1196,2024-04-22,West,Furniture,Cabinet,4,2567.12,326.29
+1197,2024-03-11,East,Office Supplies,Paper,1,261.22,74.8
+1198,2024-03-30,South,Furniture,Bookcase,1,29.12,6.89
+1199,2024-06-30,North,Furniture,Cabinet,2,1220.62,315.33
+1200,2024-06-09,West,Furniture,Chair,4,168.48,47.22
+1201,2024-06-15,South,Office Supplies,Binder,4,1446.52,218.8
+1202,2024-05-04,West,Office Supplies,Binder,3,371.97,97.13
+1203,2024-06-22,South,Office Supplies,Binder,5,564.0,150.94
+1204,2024-09-18,South,Furniture,Desk,1,622.37,48.86
+1205,2024-04-11,South,Furniture,Bookcase,2,597.6,51.76
+1206,2024-09-09,West,Office Supplies,Pen,1,229.03,55.7
+1207,2024-11-25,East,Office Supplies,Envelope,4,3294.96,891.33
+1208,2024-11-19,East,Office Supplies,Stapler,2,1077.84,180.25
+1209,2024-08-24,West,Furniture,Cabinet,1,435.29,29.84
+1210,2024-02-16,West,Technology,Laptop,3,3004.2,207.84
+1211,2024-01-22,West,Furniture,Cabinet,5,5729.95,1344.99
+1212,2024-02-01,West,Office Supplies,Pen,3,2201.73,386.06
+1213,2024-05-06,West,Technology,Tablet,1,615.37,57.32
+1214,2024-05-24,West,Furniture,Cabinet,5,3697.85,521.3
+1215,2024-06-20,North,Furniture,Bookcase,5,408.95,84.95
+1216,2024-12-02,South,Furniture,Chair,5,4102.45,496.55
+1217,2024-06-07,West,Furniture,Chair,5,4015.3,1121.02
+1218,2024-06-17,South,Technology,Keyboard,1,385.31,55.55
+1219,2024-07-04,North,Office Supplies,Envelope,1,782.31,121.92
+1220,2024-09-05,South,Furniture,Bookcase,2,2284.76,309.43
+1221,2024-02-21,North,Technology,Phone,2,222.1,57.99
+1222,2024-03-24,South,Office Supplies,Stapler,5,873.2,125.9
+1223,2024-07-05,South,Office Supplies,Envelope,2,1742.0,106.13
+1224,2024-04-29,South,Furniture,Cabinet,3,2723.46,669.84
+1225,2024-08-13,West,Furniture,Table,2,908.1,260.43
+1226,2024-04-12,South,Furniture,Table,5,3212.0,936.51
+1227,2024-02-22,North,Furniture,Chair,4,4205.84,793.37
+1228,2024-03-16,West,Furniture,Chair,2,683.78,188.95
+1229,2024-07-31,North,Technology,Phone,4,4255.44,1202.66
+1230,2024-07-10,South,Furniture,Cabinet,3,894.66,267.17
+1231,2024-03-15,South,Technology,Tablet,1,1010.23,214.66
+1232,2024-12-27,West,Technology,Tablet,4,3365.44,285.05
+1233,2024-04-20,South,Furniture,Cabinet,1,1088.91,59.62
+1234,2024-05-01,East,Office Supplies,Envelope,5,2597.2,633.83
+1235,2024-08-22,North,Technology,Laptop,2,1030.78,256.12
+1236,2024-10-21,South,Technology,Monitor,5,3262.7,678.6
+1237,2024-05-03,West,Office Supplies,Pen,3,1579.5,321.75
+1238,2024-09-26,North,Technology,Laptop,5,5850.45,391.51
+1239,2024-05-09,North,Furniture,Table,1,770.09,227.38
+1240,2024-02-23,East,Furniture,Chair,3,913.59,195.76
+1241,2024-03-30,West,Technology,Laptop,3,1992.9,504.96
+1242,2024-08-22,North,Office Supplies,Binder,2,1955.14,128.6
+1243,2024-06-10,East,Furniture,Desk,1,953.51,258.83
+1244,2024-11-27,South,Office Supplies,Binder,5,2893.05,171.14
+1245,2024-03-04,East,Furniture,Bookcase,1,1041.64,138.52
+1246,2024-04-05,West,Furniture,Table,4,4302.68,631.04
+1247,2024-02-12,West,Office Supplies,Binder,3,3332.07,599.17
+1248,2024-05-30,East,Technology,Monitor,5,5971.1,567.94
+1249,2024-11-04,West,Technology,Laptop,3,2399.64,303.85
+1250,2024-06-29,West,Technology,Monitor,3,1642.83,380.65
+1251,2024-09-19,South,Furniture,Chair,1,812.0,123.06
+1252,2024-03-05,North,Technology,Phone,5,4100.7,654.24
+1253,2024-11-05,South,Technology,Tablet,3,1415.31,271.47
+1254,2024-10-20,South,Office Supplies,Binder,3,1376.94,331.53
+1255,2024-02-28,North,Office Supplies,Stapler,4,1563.88,187.15
+1256,2024-03-01,East,Office Supplies,Pen,4,2523.76,702.58
+1257,2024-09-08,South,Furniture,Table,2,2391.42,290.3
+1258,2024-08-15,North,Technology,Phone,1,553.41,152.0
+1259,2024-05-28,East,Office Supplies,Stapler,3,2571.78,482.21
+1260,2024-04-12,South,Technology,Phone,3,1860.99,149.51
+1261,2024-08-27,South,Technology,Monitor,1,445.86,86.08
+1262,2024-09-02,West,Office Supplies,Paper,1,384.96,115.45
+1263,2024-02-07,West,Furniture,Cabinet,1,167.89,21.7
+1264,2024-10-09,South,Furniture,Cabinet,3,514.29,132.31
+1265,2024-03-04,South,Technology,Monitor,5,5473.2,349.48
+1266,2024-06-26,East,Furniture,Desk,2,801.48,182.2
+1267,2024-03-05,East,Technology,Tablet,2,1538.74,288.84
+1268,2024-10-24,South,Office Supplies,Envelope,1,613.04,56.5
+1269,2024-01-22,North,Technology,Keyboard,5,2091.95,587.8
+1270,2024-10-19,West,Technology,Laptop,5,1661.45,170.63
+1271,2024-11-24,East,Office Supplies,Paper,4,4276.08,797.04
+1272,2024-01-31,South,Furniture,Desk,4,1483.88,101.26
+1273,2024-03-14,East,Furniture,Table,4,2272.16,306.85
+1274,2024-07-08,North,Office Supplies,Stapler,3,3512.82,290.48
+1275,2024-03-13,North,Furniture,Desk,4,658.32,106.91
+1276,2024-03-22,East,Technology,Tablet,4,4158.84,642.68
+1277,2024-09-20,West,Office Supplies,Stapler,2,1840.96,321.37
+1278,2024-09-15,West,Furniture,Bookcase,4,189.4,54.23
+1279,2024-09-10,West,Technology,Phone,5,2182.1,136.68
+1280,2024-05-15,East,Furniture,Cabinet,1,1019.66,160.83
+1281,2024-04-09,East,Furniture,Bookcase,1,492.69,94.88
+1282,2024-10-08,East,Office Supplies,Stapler,1,475.89,77.37
+1283,2024-07-10,East,Office Supplies,Envelope,1,171.82,12.74
+1284,2024-09-13,North,Office Supplies,Stapler,2,509.78,90.37
+1285,2024-09-22,West,Technology,Laptop,2,1724.08,432.73
+1286,2024-06-12,South,Technology,Keyboard,5,924.7,261.54
+1287,2024-09-17,West,Furniture,Cabinet,3,2161.8,382.27
+1288,2024-06-18,North,Office Supplies,Envelope,3,1741.11,94.3
+1289,2024-12-18,North,Furniture,Cabinet,3,2880.51,666.35
+1290,2024-10-23,South,Office Supplies,Binder,3,3483.42,855.97
+1291,2024-11-13,West,Office Supplies,Paper,5,2934.65,531.34
+1292,2024-04-07,North,Technology,Phone,1,695.63,156.61
+1293,2024-07-29,West,Furniture,Bookcase,4,794.76,176.93
+1294,2024-12-05,West,Office Supplies,Paper,2,1264.1,240.46
+1295,2024-09-29,East,Office Supplies,Binder,3,3446.67,568.41
+1296,2024-05-06,East,Office Supplies,Stapler,3,2219.67,217.67
+1297,2024-05-27,South,Office Supplies,Stapler,2,2261.9,668.54
+1298,2024-05-20,East,Office Supplies,Binder,3,1758.51,334.33
+1299,2024-06-25,South,Technology,Keyboard,5,2340.2,690.45
+1300,2024-08-14,East,Furniture,Chair,3,3441.81,240.09
+1301,2024-10-14,East,Office Supplies,Binder,2,516.88,95.44
+1302,2024-01-26,South,Technology,Laptop,5,4471.25,491.03
+1303,2024-08-29,North,Office Supplies,Pen,1,138.23,18.33
+1304,2024-03-21,West,Office Supplies,Pen,1,1158.13,341.04
+1305,2024-05-27,East,Office Supplies,Binder,4,3150.56,752.91
+1306,2024-01-20,South,Furniture,Chair,1,789.71,85.33
+1307,2024-09-10,South,Furniture,Desk,1,1196.66,178.6
+1308,2024-02-24,East,Office Supplies,Stapler,1,30.94,5.94
+1309,2024-03-09,West,Furniture,Table,5,3193.5,869.64
+1310,2024-11-27,East,Furniture,Desk,1,410.21,95.49
+1311,2024-10-17,South,Office Supplies,Pen,1,889.21,220.25
+1312,2024-02-14,West,Technology,Keyboard,4,3983.4,712.31
+1313,2024-05-07,North,Office Supplies,Paper,2,2356.78,399.15
+1314,2024-06-17,East,Furniture,Table,2,1094.3,127.76
+1315,2024-04-30,North,Office Supplies,Envelope,1,328.63,45.97
+1316,2024-09-14,East,Office Supplies,Paper,4,1528.12,231.29
+1317,2024-03-09,West,Office Supplies,Paper,3,1361.1,143.2
+1318,2024-08-29,South,Technology,Monitor,5,2304.4,519.61
+1319,2024-07-04,North,Technology,Keyboard,1,640.1,116.53
+1320,2024-04-13,South,Office Supplies,Paper,1,997.95,275.16
+1321,2024-10-25,West,Technology,Tablet,5,2706.85,595.71
+1322,2024-09-19,West,Technology,Keyboard,4,3897.04,636.61
+1323,2024-06-06,North,Furniture,Cabinet,1,679.38,148.24
+1324,2024-01-24,West,Furniture,Bookcase,1,900.05,175.13
+1325,2024-02-05,West,Furniture,Chair,5,5965.35,1692.05
+1326,2024-11-24,West,Technology,Tablet,4,929.52,77.95
+1327,2024-07-11,North,Furniture,Table,4,4184.6,1157.84
+1328,2024-04-01,West,Office Supplies,Envelope,2,1582.34,216.69
+1329,2024-06-01,West,Office Supplies,Pen,2,2010.18,480.52
+1330,2024-05-06,West,Office Supplies,Envelope,4,2590.72,662.81
+1331,2024-02-27,North,Furniture,Desk,3,727.23,195.48
+1332,2024-01-09,South,Office Supplies,Binder,5,4619.7,1251.66
+1333,2024-12-10,North,Technology,Laptop,1,720.85,116.5
+1334,2024-01-29,South,Technology,Laptop,4,2151.92,397.98
+1335,2024-06-12,East,Office Supplies,Stapler,2,1965.26,457.67
+1336,2024-07-30,East,Technology,Tablet,2,2366.24,426.66
+1337,2024-03-30,West,Furniture,Chair,5,5696.25,1537.58
+1338,2024-12-09,West,Office Supplies,Binder,1,1167.3,333.14
+1339,2024-04-04,West,Office Supplies,Stapler,4,2007.0,250.82
+1340,2024-08-25,North,Technology,Phone,3,3095.7,266.5
+1341,2024-05-04,East,Office Supplies,Binder,4,2710.4,226.38
+1342,2024-02-17,South,Technology,Tablet,1,1108.23,290.12
+1343,2024-02-07,South,Technology,Tablet,4,3259.72,654.33
+1344,2024-06-19,East,Office Supplies,Envelope,2,1171.38,313.19
+1345,2024-09-02,South,Technology,Phone,2,2310.5,183.29
+1346,2024-06-13,East,Office Supplies,Envelope,2,976.06,107.2
+1347,2024-07-03,West,Furniture,Table,5,3927.45,499.2
+1348,2024-04-14,East,Furniture,Chair,4,3674.88,477.95
+1349,2024-03-15,North,Furniture,Table,1,683.78,72.01
+1350,2024-03-19,South,Furniture,Cabinet,5,3516.95,543.0
+1351,2024-10-08,East,Furniture,Desk,4,2769.4,308.6
+1352,2024-06-29,South,Furniture,Table,4,2255.12,525.88
+1353,2024-11-24,North,Technology,Keyboard,4,948.72,258.38
+1354,2024-01-04,West,Office Supplies,Paper,1,1135.32,246.43
+1355,2024-09-15,West,Technology,Phone,1,854.46,44.68
+1356,2024-09-04,West,Furniture,Chair,5,3862.6,1094.95
+1357,2024-09-28,East,Technology,Laptop,5,3354.7,177.67
+1358,2024-08-08,South,Office Supplies,Stapler,1,612.61,137.51
+1359,2024-09-26,East,Technology,Laptop,5,978.5,95.88
+1360,2024-08-23,South,Furniture,Bookcase,4,452.96,131.28
+1361,2024-11-30,North,Office Supplies,Pen,3,2481.51,650.07
+1362,2024-11-22,North,Technology,Monitor,4,1860.24,314.38
+1363,2024-06-18,North,Office Supplies,Pen,1,609.83,96.64
+1364,2024-10-17,West,Office Supplies,Paper,2,538.94,143.91
+1365,2024-10-05,North,Furniture,Chair,1,827.63,99.39
+1366,2024-12-30,West,Technology,Tablet,1,1154.53,227.16
+1367,2024-07-18,East,Technology,Tablet,2,1370.94,262.77
+1368,2024-01-28,North,Furniture,Desk,1,610.94,179.36
+1369,2024-10-31,West,Furniture,Desk,1,421.9,102.21
+1370,2024-04-26,East,Furniture,Chair,3,2833.77,460.88
+1371,2024-07-13,North,Office Supplies,Binder,4,956.68,187.96
+1372,2024-03-19,West,Office Supplies,Stapler,2,1722.94,121.48
+1373,2024-01-03,East,Office Supplies,Pen,4,1574.72,120.68
+1374,2024-08-08,West,Furniture,Bookcase,3,421.89,30.3
+1375,2024-06-30,North,Office Supplies,Envelope,5,2507.45,141.84
+1376,2024-07-30,West,Office Supplies,Envelope,3,3117.57,165.5
+1377,2024-07-13,South,Technology,Keyboard,2,1389.82,128.41
+1378,2024-03-26,West,Technology,Tablet,3,1010.16,87.36
+1379,2024-05-08,South,Furniture,Table,3,1774.17,122.83
+1380,2024-03-10,East,Office Supplies,Binder,5,3738.35,614.83
+1381,2024-06-17,West,Technology,Monitor,3,3039.3,440.61
+1382,2024-12-21,South,Furniture,Table,5,903.15,117.56
+1383,2024-05-29,West,Furniture,Bookcase,2,2316.4,676.81
+1384,2024-07-20,East,Office Supplies,Pen,3,1391.25,353.55
+1385,2024-12-15,North,Technology,Keyboard,2,1437.66,267.99
+1386,2024-12-20,North,Office Supplies,Binder,2,1074.76,132.02
+1387,2024-12-03,South,Furniture,Table,2,1534.68,169.59
+1388,2024-09-02,West,Office Supplies,Binder,4,429.12,127.74
+1389,2024-07-03,North,Office Supplies,Envelope,4,2646.0,655.36
+1390,2024-10-15,West,Technology,Phone,3,648.84,131.82
+1391,2024-09-18,South,Furniture,Table,1,32.45,3.72
+1392,2024-12-19,South,Furniture,Bookcase,4,2265.64,498.19
+1393,2024-02-13,North,Furniture,Chair,4,573.48,88.31
+1394,2024-04-15,West,Office Supplies,Pen,3,1164.09,190.72
+1395,2024-06-12,North,Furniture,Table,1,537.04,120.4
+1396,2024-02-25,South,Furniture,Chair,1,46.65,6.33
+1397,2024-10-13,West,Office Supplies,Pen,5,1129.25,101.67
+1398,2024-12-02,West,Furniture,Desk,4,3052.48,294.86
+1399,2024-08-07,West,Furniture,Chair,5,5310.25,862.35
+1400,2024-02-02,North,Technology,Phone,2,696.9,157.46
+1401,2024-05-14,West,Office Supplies,Pen,3,1213.98,199.56
+1402,2024-02-28,East,Office Supplies,Stapler,5,2392.95,354.48
+1403,2024-06-01,North,Furniture,Table,5,1117.9,244.15
+1404,2024-04-03,East,Office Supplies,Pen,3,477.24,60.3
+1405,2024-10-21,West,Office Supplies,Pen,5,2391.95,476.25
+1406,2024-11-26,South,Furniture,Desk,4,3079.56,687.85
+1407,2024-08-18,North,Office Supplies,Pen,4,1443.32,139.68
+1408,2024-10-14,West,Furniture,Chair,4,724.44,183.87
+1409,2024-03-26,North,Furniture,Table,4,3431.88,552.41
+1410,2024-10-02,East,Office Supplies,Paper,2,729.34,86.58
+1411,2024-10-08,North,Technology,Monitor,5,4480.85,1082.04
+1412,2024-07-06,North,Office Supplies,Paper,3,2803.89,717.29
+1413,2024-11-30,South,Office Supplies,Binder,5,1389.4,217.15
+1414,2024-02-14,West,Furniture,Chair,4,1320.48,350.65
+1415,2024-06-28,West,Technology,Phone,2,1953.26,384.76
+1416,2024-01-31,East,Technology,Keyboard,2,1892.24,479.46
+1417,2024-12-26,East,Office Supplies,Stapler,5,3278.75,429.23
+1418,2024-12-13,North,Furniture,Cabinet,3,3431.49,612.88
+1419,2024-03-05,South,Technology,Monitor,1,1191.13,317.75
+1420,2024-12-12,West,Technology,Phone,3,2992.83,719.38
+1421,2024-07-11,West,Furniture,Desk,5,3831.15,792.87
+1422,2024-07-07,West,Technology,Laptop,4,2513.68,300.53
+1423,2024-02-17,West,Furniture,Bookcase,5,114.6,27.91
+1424,2024-08-07,South,Office Supplies,Stapler,1,958.9,143.29
+1425,2024-10-22,South,Furniture,Bookcase,3,2992.35,402.29
+1426,2024-01-24,North,Office Supplies,Binder,3,3225.3,775.89
+1427,2024-08-13,West,Office Supplies,Binder,1,166.6,44.05
+1428,2024-11-28,East,Technology,Monitor,2,2389.84,662.83
+1429,2024-07-09,South,Technology,Tablet,1,792.41,89.22
+1430,2024-08-07,North,Technology,Monitor,3,2630.01,628.07
+1431,2024-10-30,South,Office Supplies,Paper,1,271.84,18.89
+1432,2024-03-02,West,Office Supplies,Binder,1,29.51,4.01
+1433,2024-02-22,North,Office Supplies,Pen,4,414.32,60.39
+1434,2024-03-09,South,Furniture,Bookcase,3,545.43,132.74
+1435,2024-08-13,East,Technology,Keyboard,5,150.0,31.88
+1436,2024-08-14,South,Office Supplies,Pen,2,2210.96,451.08
+1437,2024-07-15,East,Technology,Laptop,2,1815.78,358.42
+1438,2024-05-07,East,Furniture,Bookcase,2,624.78,131.93
+1439,2024-04-06,West,Office Supplies,Paper,3,787.29,158.82
+1440,2024-09-12,North,Furniture,Chair,2,1207.94,94.44
+1441,2024-10-18,West,Office Supplies,Paper,3,3366.09,279.37
+1442,2024-02-07,North,Furniture,Cabinet,2,1840.04,531.06
+1443,2024-01-31,West,Office Supplies,Paper,1,329.38,19.75
+1444,2024-07-24,North,Office Supplies,Stapler,5,4625.95,721.16
+1445,2024-06-07,North,Office Supplies,Envelope,5,3734.7,445.8
+1446,2024-11-20,North,Office Supplies,Pen,2,1305.88,192.86
+1447,2024-08-10,North,Furniture,Table,2,176.66,12.64
+1448,2024-12-02,South,Furniture,Cabinet,5,424.65,91.95
+1449,2024-06-26,East,Technology,Laptop,2,1695.54,154.22
+1450,2024-03-01,North,Technology,Tablet,2,1809.48,485.6
+1451,2024-10-22,North,Furniture,Table,3,1914.45,221.57
+1452,2024-10-17,South,Furniture,Table,5,2224.75,389.11
+1453,2024-12-11,North,Furniture,Desk,3,2797.59,765.33
+1454,2024-05-05,North,Technology,Keyboard,1,71.96,19.12
+1455,2024-01-19,West,Furniture,Bookcase,4,4423.48,419.08
+1456,2024-05-18,North,Technology,Tablet,2,1022.36,235.22
+1457,2024-04-01,South,Office Supplies,Stapler,1,612.41,168.71
+1458,2024-05-24,East,Office Supplies,Paper,4,405.32,67.39
+1459,2024-05-29,East,Furniture,Chair,5,2794.8,397.5
+1460,2024-09-09,South,Office Supplies,Envelope,2,1134.86,224.61
+1461,2024-01-13,South,Office Supplies,Envelope,2,395.34,111.92
+1462,2024-12-02,West,Office Supplies,Stapler,1,1142.17,57.53
+1463,2024-08-02,West,Office Supplies,Stapler,1,262.13,77.53
+1464,2024-09-23,West,Technology,Phone,3,389.31,109.13
+1465,2024-02-18,South,Office Supplies,Stapler,4,4679.88,333.33
+1466,2024-12-05,South,Office Supplies,Binder,1,718.44,47.11
+1467,2024-07-20,East,Technology,Tablet,3,3072.24,864.87
+1468,2024-03-10,North,Furniture,Table,3,886.98,253.58
+1469,2024-03-02,East,Technology,Laptop,2,1100.98,141.49
+1470,2024-02-16,South,Technology,Monitor,3,1700.25,447.37
+1471,2024-06-16,South,Office Supplies,Stapler,5,337.95,87.52
+1472,2024-06-02,East,Technology,Phone,3,1462.71,91.04
+1473,2024-10-08,South,Technology,Laptop,4,4113.72,777.45
+1474,2024-01-07,North,Technology,Monitor,1,968.6,82.28
+1475,2024-11-18,North,Technology,Phone,2,1983.86,283.81
+1476,2024-02-03,South,Office Supplies,Envelope,3,3307.71,227.39
+1477,2024-06-18,North,Office Supplies,Binder,2,257.06,67.3
+1478,2024-07-21,West,Technology,Monitor,1,218.23,42.22
+1479,2024-04-05,East,Technology,Monitor,4,895.64,92.86
+1480,2024-05-05,East,Furniture,Table,2,121.78,24.94
+1481,2024-07-15,South,Furniture,Table,5,2926.3,210.49
+1482,2024-10-05,North,Furniture,Desk,5,1569.95,468.66
+1483,2024-10-16,East,Furniture,Bookcase,4,2650.12,453.62
+1484,2024-01-16,East,Furniture,Bookcase,2,101.5,20.23
+1485,2024-04-29,South,Technology,Monitor,5,2208.85,432.93
+1486,2024-01-29,South,Technology,Phone,2,669.0,169.97
+1487,2024-03-29,South,Office Supplies,Binder,3,3370.62,1004.06
+1488,2024-10-29,North,Technology,Keyboard,3,2913.99,653.92
+1489,2024-04-06,West,Office Supplies,Stapler,5,3425.3,653.47
+1490,2024-04-29,South,Office Supplies,Stapler,2,1197.42,86.89
+1491,2024-04-13,South,Technology,Keyboard,4,83.24,23.26
+1492,2024-12-26,South,Furniture,Desk,3,270.84,23.54
+1493,2024-12-05,West,Technology,Keyboard,3,3460.38,496.21
+1494,2024-03-21,West,Office Supplies,Paper,3,1128.24,94.9
+1495,2024-12-21,East,Office Supplies,Binder,3,676.68,197.72
+1496,2024-05-30,South,Technology,Keyboard,2,932.98,217.85
+1497,2024-10-17,North,Technology,Laptop,5,2410.45,719.69
+1498,2024-04-23,North,Technology,Keyboard,3,3320.49,969.19
+1499,2024-06-12,South,Furniture,Desk,3,2698.53,295.49
+1500,2024-05-07,North,Office Supplies,Paper,3,1641.06,190.86
